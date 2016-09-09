@@ -4,7 +4,7 @@ Using Node.js, design and code up a Toy Robot Simulator. You may use another pro
 
 ## Assessment Criteria
 
-We're learning about you through the test, so put your best foot forward.  Essentially, you should be painting a picture of yourself through your code and solution design.  Show us how you would approach a typical project. If you have any questions regarding the details of this this test, feel free to continue making record your assumptions.
+We're learning about you through the test, so put your best foot forward.  Essentially, you should be painting a picture of yourself through your code and solution design.  Show us how you would approach a typical project. Include a README file to document and provide instructions if necessary. If you have any questions regarding the details of this this test, feel free to continue and record your assumptions in the README file.
 
 - We want to see clean design and good software practices.
 - You will be assessed against SOLID principles.
