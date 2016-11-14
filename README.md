@@ -6,7 +6,7 @@ Using Node.js, design and code up a Toy Robot Simulator. You may use another pro
 
 We're learning about you through the test, so put your best foot forward.  Essentially, you should be painting a picture of yourself through your code and solution design.  Show us how you would approach a typical project. Include a README file to document and provide instructions if necessary. If you have any questions regarding the details of this test, feel free to continue and record your assumptions in the README file.
 
-- We want to see clean design and _sounds software engineering practices_.
+- We want to see clean design and _sound software engineering practices_.
 - When setting up the repo, structure it such that it will be used as a working repo in the future.
 - You should aim to deliver _production-ready_ code _with tests_.
 
